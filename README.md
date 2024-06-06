@@ -8,7 +8,7 @@ The port-forward port written by python is forwarded to the url(the program is g
 
 ## 使用:
 ```
-git clone git@github.com:luckfu/port-forward.git
+git clone https://github.com/luckfu/port-forward.git
 cd port-forward
 
 python ./port_forwarding.py
